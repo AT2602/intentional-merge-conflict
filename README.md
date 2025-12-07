@@ -1,2 +1,3 @@
-# Intentional Merge Conflict Demo
-A tiny Python tool to demonstrate merge conflict creation & resolution.
+# Cloud & DevOps lab assignment
+Demonstration for Intentional Merge Conflict
+
